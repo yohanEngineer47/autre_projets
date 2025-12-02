@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="image_presentation.png" alt="Profile Banner" width="100%">
-</p>
+[Image exemple](https://github.com/yohanEngineer47/autre_projets/blob/main/%20image_presentation.png)
 
 # 👋 Hi, I'm **Yohan**
 
