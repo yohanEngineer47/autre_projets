@@ -1,4 +1,3 @@
-(https://github.com/yohanEngineer47/autre_projets/blob/main/%20image_presentation.png)
 
 # 👋 Hi, I'm **Yohan**
 
