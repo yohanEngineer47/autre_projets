@@ -1,47 +1,50 @@
-# 👋 Salut — je suis **tonNomOuPseudoGitHub**
+<p align="center">
+  <img src="image_presentation.png" alt="Profile Banner" width="100%">
+</p>
 
-Bienvenue sur mon profil !
+# 👋 Hi, I'm **Yohan**
 
----
-
-## 📂 À propos
-
-- Développeur / Ingénieur passionné par …
-- Intérêts : IA, machine learning, data, web, etc.
-- Actuellement en train de travailler sur : projet X, projet Y, …
+Welcome to my GitHub profile!
 
 ---
 
-## 🔧 Compétences
+## 🧭 About Me
 
-| Domaine | Technologies / Outils |
-|--------|----------------------|
-| Langages | Python, JavaScript, etc. |
-| Data / IA | NumPy, pandas, TensorFlow / PyTorch, etc. |
-| Web | HTML, CSS, React, Node.js, etc. |
-| Autres | Git, Docker, etc. |
+- Developer / engineer passionate about …
+- Interests: AI, web development, automation, software engineering, etc.
+- Currently working on: Project Green-Book, Project Portfolio, …
 
 ---
 
-## 📁 Projets / Repositories
+## 🔧 Skills
 
-Voici quelques-uns de mes projets récents :
-
-- [Nom-du-repo-1](https://github.com/tonPseudo/nom-du-repo-1) — courte description
-- [Nom-du-repo-2](https://github.com/tonPseudo/nom-du-repo-2) — courte description
-- …
-
-Pour voir tous mes projets 👉 [Voir mes repositories](https://github.com/tonPseudo?tab=repositories)
+| Area | Tools / Technologies |
+|------|----------------------|
+| Languages | Python, JavaScript, Java, PHP |
+| Web | HTML, CSS, boostrap |
+| Other | Git, Docker, Linux |
 
 ---
 
-## 📬 Contact / Liens
+## 📂 Featured Projects
 
-- GitHub : https://github.com/tonPseudo
-- LinkedIn : https://www.linkedin.com/in/ton-profil/ *(si applicable)*
-- Mail : ton.email@example.com *(optionnel)*
+Here are some of the projects I’ve been working on:
+
+- **[Repo 1](https://github.com/yohanEngineer47/portfolio)** — My portfolio
+- **[Repo 2](https://github.com/yohanEngineer47/autre_projets)** — My other projects
+
+
+👉 Want to see more?
+📁 **All my repositories:** https://github.com/yohanEngineer47?tab=repositories
 
 ---
 
-> « Toujours apprendre, toujours coder. 🚀 »
+## 🌐 Contact
 
+
+- LinkedIn: https://www.linkedin.com/in/yohan-yapo-900ab8320/
+- Email: evans.yohan.7@proton.me
+
+---
+
+> _“Always learning. Always building. 🚀”_
