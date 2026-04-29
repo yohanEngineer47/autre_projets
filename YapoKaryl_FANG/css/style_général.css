@@ -1,0 +1,122 @@
+/* ce fichier css est le modèle générale de tout le site */
+
+/* style général du site web */
+
+html, body{
+		font-family: OCR A Std, monospace; 
+		margin: 0;
+    	padding: 0;
+		box-sizing: border-box; 
+		height: 100%; 
+	}
+
+
+body {
+
+	min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+	background-image: url(../images/img_math.jpg);
+}
+
+
+/* style de l'en-tete */
+
+header {
+			top: 0px;
+    		width: 100%;
+			margin: 0px;
+    		padding: 1px;
+			background: linear-gradient(#006400, #006400);
+			text-align: center;
+			position: fixed;
+			opacity: 87%;
+		}
+
+header > div { /* ajencement de l'en-tête */
+    display: flex;
+	flex-direction: column;
+}
+
+.en-tête_1 {
+	justify-content: space-between;
+}
+
+.en-tête_1 > img {
+	height: 90px;
+}
+
+header > div > div > img { /* les tailles des icones de l'en-tête */
+	height: 35px;
+} 
+
+.en-tête_2 {
+	height: 30px;
+	justify-content: center;
+}
+
+.en-tête_2 > img {
+	height: 100px;
+	margin-top: -50px;
+}
+
+header > div > div > h1 {
+	color: rgb(255, 255, 255);
+	height: 40px;
+}
+
+
+
+/* style du format de la page */
+
+div {
+	 margin-top:  0px;
+	 display: flex;
+	}
+
+main {
+		background-color: white;  
+		margin-left: 7%;
+		margin-right: 7%;
+	  }
+
+	
+h1 {color: red;}
+h2 {color: green;}
+h3 {color: blue;}
+
+
+
+
+/* style du menu */
+
+nav {
+		float: left;
+		background-color: #D3D3D3;
+	}
+
+ul {
+		list-style-type: none;
+	} /* styles des liens */
+
+nav ul li a {text-decoration: none; color: black;} 
+nav ul li a:hover {background-color: #00BFFF; color: white;}
+
+
+
+/* style bas de page */
+
+footer {
+		background-color: #2F4F4F;
+		opacity: 95%;
+		align-content: center;
+		color: white;
+		height: 70px;
+		}
+
+footer ul {
+			display: flex;
+			justify-content: center;
+			justify-content: space-evenly;
+		  }
+

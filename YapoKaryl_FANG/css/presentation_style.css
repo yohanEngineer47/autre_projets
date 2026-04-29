@@ -1,0 +1,20 @@
+/* style du contenue de l'acceuil */
+
+
+.presentation{height: 2120px;} /* taille du contenue de l'acceuil */
+#img_facebook {width: 330px; height: 120px;}
+.presentation_img_mz {display: flex; padding-left: 0px;}
+.presentation_img_mz img {height: 120px; width: 100px; 
+							position: absolute;
+							right: 120px;}
+.presentation_img_mz p {float: none;}
+#img_amazon {height: 50px;}
+#img_netflix {height: 50px;}
+#img_google {padding-left: 210px;}
+#icon_facebook {height: 30px;}
+#icon_gmail {height: 30px;}
+#icon_amazon {height: 30px;}
+#icon_netflix {height: 30px;}
+table, tr, td, th {border: black thin solid; border-collapse:collapse;  font-family:Arial, Helvetica, sans-serif; font-size: 1em; border-spacing: 1px;}
+ol a {text-decoration: none;}
+ol a:hover {font-weight: bold;}
