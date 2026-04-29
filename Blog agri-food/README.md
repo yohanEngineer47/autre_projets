@@ -78,8 +78,3 @@ Ce projet a pour but de :
 
 Projet réalisé par : *[yohanEngineer47]*
 
----
-
-## 📄 Licence
-
-Ce projet est libre d’utilisation à des fins éducatives.
