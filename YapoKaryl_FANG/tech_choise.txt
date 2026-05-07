@@ -1,0 +1,4 @@
+- html, css
+- php
+- une base de doonnée rapide, et simple
+- Boostrap
